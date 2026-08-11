@@ -27,8 +27,8 @@
 如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
 
 <div align="center">
-  <img src="donate/Alipay.jpg" alt="支付宝捐赠" width="240"/>
-  <img src="donate/WeChatPay.png" alt="微信捐赠" width="240"/>
+  <img src="donate/Alipay.jpg" alt="支付宝捐赠" height="220"/>
+  <img src="donate/WeChatPay.png" alt="微信捐赠" height="220"/>
 </div>
 
 ## 免责声明
